@@ -1,4 +1,4 @@
-cabeçalho_menu-hunburger{
+.cabeçalho_menu-hunburger{
     width: 24px;
     height: 24px;
     background-image: url(../img/Menu.svg);
@@ -52,8 +52,10 @@ cabeçalho_menu-hunburger{
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .container_botao{
     display: none;
 }
+

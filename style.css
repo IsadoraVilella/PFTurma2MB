@@ -1,5 +1,5 @@
 @import url("style/header.css");
-@import url("Style/banner.css");
+@import url("style/banner.css");
 @import url("Style/carrossel.css");
 
 :root{
@@ -16,3 +16,5 @@ body{
      font-size: 16px;
      font-weight: 400;
  }
+
+    
